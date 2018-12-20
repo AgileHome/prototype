@@ -1,0 +1,35 @@
+#s-f096395a-8f80-44c2-8910-3bfd450d193c #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-f096395a-8f80-44c2-8910-3bfd450d193c #s-Atras {
+  -ms-transform: rotate(0.0deg);
+}
+#s-f096395a-8f80-44c2-8910-3bfd450d193c #s-CodigoGrupo {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-f096395a-8f80-44c2-8910-3bfd450d193c > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

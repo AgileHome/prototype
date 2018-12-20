@@ -1,0 +1,26 @@
+#s-06809590-62cb-433b-99d0-c582c5c01e39 #s-Fondo_4 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-06809590-62cb-433b-99d0-c582c5c01e39 #s-Atras {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-06809590-62cb-433b-99d0-c582c5c01e39 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

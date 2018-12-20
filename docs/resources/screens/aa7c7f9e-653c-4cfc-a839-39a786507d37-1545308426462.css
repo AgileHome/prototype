@@ -1,0 +1,159 @@
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 > #alignmentBox {
+  position: relative;
+  max-width: 360px;
+  max-height: 640px;
+  width: 100%;
+  height: 100%;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Image_1 {
+  position: absolute;
+  width: 360px;
+  height: 640px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Image_1 > img, #s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Image_1 > svg {
+  height: 640px;
+  width: 360px;
+  box-shadow: none;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-B_Atras > svg {
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-B_Atras {
+  position: absolute;
+  width: 36px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-B_Atras > img, #s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-B_Atras > svg {
+  height: 35px;
+  width: 36px;
+  box-shadow: none;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-B_Grupo {
+  position: absolute;
+  width: 80px;
+  height: 73px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-B_Grupo > img, #s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-B_Grupo > svg {
+  height: 73px;
+  width: 80px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-B_TareasGlobal {
+  position: absolute;
+  width: 134px;
+  height: 72px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-B_TareasGlobal > img, #s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-B_TareasGlobal > svg {
+  height: 72px;
+  width: 134px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Text_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Text_1 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Roboto-Bold',Arial;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Text_1 > .clipping, #s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Text_1 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Text_1 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Text_1 span {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Roboto-Bold',Arial;
+  font-size: 16.0pt;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Text_1 span#rtr-s-Text_1_0 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Roboto-Bold',Arial;
+  font-size: 16.0pt;
+  line-height: 0px;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Hotspot_3 {
+  position: absolute;
+  width: 139px;
+  height: 66px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Hotspot_3 > img, #s-aa7c7f9e-653c-4cfc-a839-39a786507d37 #s-Hotspot_3 > svg {
+  height: 66px;
+  width: 139px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-aa7c7f9e-653c-4cfc-a839-39a786507d37 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

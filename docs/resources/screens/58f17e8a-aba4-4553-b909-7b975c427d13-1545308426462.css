@@ -1,0 +1,91 @@
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 > #alignmentBox {
+  position: relative;
+  max-width: 360px;
+  max-height: 640px;
+  width: 100%;
+  height: 100%;
+}
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-Image_1 {
+  position: absolute;
+  width: 360px;
+  height: 640px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-Image_1 > img, #s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-Image_1 > svg {
+  height: 640px;
+  width: 360px;
+  box-shadow: none;
+}
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-B_CrearGrupo {
+  position: absolute;
+  width: 346px;
+  height: 81px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-B_CrearGrupo > img, #s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-B_CrearGrupo > svg {
+  height: 81px;
+  width: 346px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-B_UnirseGrupo {
+  position: absolute;
+  width: 347px;
+  height: 81px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-B_UnirseGrupo > img, #s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-B_UnirseGrupo > svg {
+  height: 81px;
+  width: 347px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-B_AccesoDirecto {
+  position: absolute;
+  width: 255px;
+  height: 201px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-B_AccesoDirecto > img, #s-58f17e8a-aba4-4553-b909-7b975c427d13 #s-B_AccesoDirecto > svg {
+  height: 201px;
+  width: 255px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-58f17e8a-aba4-4553-b909-7b975c427d13 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
